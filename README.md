@@ -1,4 +1,6 @@
-![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=csharp&logoColor=009edc)
+![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=csharp&logoColor=31a8ff)
 ![Unity](https://img.shields.io/badge/-UNITY-black?style=for-the-badge&logo=unity&logoColor=white)
+![VisualStudio](https://img.shields.io/badge/-VISUALSTUDIO-black?style=for-the-badge&logo=visualstudio&logoColor=b179f1)
 ![Aseprite](https://img.shields.io/badge/-ASEPRITE-black?style=for-the-badge&logo=aseprite&logoColor=white)
 ![Illustator](https://img.shields.io/badge/-Illustator-black?style=for-the-badge&logo=adobeillustrator&logoColor=fd7f19)
+![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff)
